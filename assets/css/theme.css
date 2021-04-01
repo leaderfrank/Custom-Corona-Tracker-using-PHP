@@ -1,0 +1,40 @@
+body.theme-dark .card {
+	background-color: #292F33!important;
+}
+
+body.theme-dark table.dataTable tbody tr {
+	background-color: #292F33!important;
+}
+body.theme-dark .card {
+	border-color: transparent!important;
+}
+body.theme-dark #topTable table.dataTable, body.theme-dark #topTable table.dataTable thead td {
+ 	border-bottom: 1px solid #343a40!important;
+}
+
+body.theme-dark .dataTables_filter input {
+	color: #fff;
+	background-color: #292F33;
+	border: 1px solid #343a40;
+}
+
+body.theme-dark select{
+    background: #6c757d;
+	border-color: #212529;
+    color:#000;
+}
+
+body.theme-dark .dataTables_wrapper .dataTables_paginate .paginate_button.current, body.theme-dark .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover, 
+	body.theme-dark .dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	color: #fff!important;
+	background: linear-gradient(to bottom, #343a40 0%, #343a40 100%);
+	border-color: #343a40;
+}
+
+body.theme-dark .card.news-feed {
+	background-color: #292F33;
+}
+
+body.theme-dark .footer .card {
+	background-color: #292F33;
+}
